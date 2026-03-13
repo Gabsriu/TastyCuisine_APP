@@ -7,7 +7,7 @@ export default function LoginScreen() {
 
   return (
     <View style={styles.container}>
-      <Image source={require('../../assets/images/logo-glow.png')} style={styles.logo} />
+      <Image source={require('../../assets/images/TastiLogo.png')} style={styles.logo} />
       <Text style={styles.title}>Login</Text>
       <TextInput style={styles.input} placeholder="Email" />
       <TextInput style={styles.input} placeholder="Senha" secureTextEntry />

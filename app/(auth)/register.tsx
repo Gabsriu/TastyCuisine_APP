@@ -14,7 +14,7 @@ export default function RegisterScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
       <Image 
-        source={require('../../assets/images/logo-glow.png')} 
+        source={require('../../assets/images/TastiLogo.png')} 
         style={styles.logo} 
       />
       
